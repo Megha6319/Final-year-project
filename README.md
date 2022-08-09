@@ -1,6 +1,6 @@
 # Final-year-project
 # CRIME PREDICTION USING MACHINE LEARNING AND DEEP LEARNING of CHICAGO DATASET
--Chicago dataset is used.
+•Chicago dataset is used.
 
 -Crime Forecasting refers to the basic process of predicting crimes before they occur. 
 
