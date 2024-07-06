@@ -2,25 +2,12 @@
 # Empirical Analysis for Crime Prediction and Forecasting using Machine Learning and Deep Learning Techniques
 
 
-• Chicago dataset is used.
+The project utilized the Chicago dataset to address the issue of crime forecasting, which involves predicting crimes before they occur. Crime is a significant social problem impacting the quality of life and economic growth of societies. One of the current challenges is maintaining a proper dataset of crime and effectively analyzing this data to aid in predicting and solving future crimes.
 
-• Crime Forecasting refers to the basic process of predicting crimes before they occur. 
+In this project, four algorithms were employed: Logistic Regression, XGBoost Classifier, Decision Tree, and Multi-Layer Perceptron (MLP). The main objective was to analyze a dataset containing numerous crime records and predict the type of crime that might occur in the future based on various conditions.
 
-• Crimes are a common social problem affecting the quality of life and the economic growth of a society. 
+Among these algorithms, XGBoost was identified as particularly effective for crime prediction.
 
-• The current problem faced are maintaining of proper dataset of crime and analyzing this data to help in predicting and solving crimes in future.
-
-• There are four algorithms used namely 1. Logistic Regression 2.XGBoost Classifier 3.Decision Tree and 4.Multi Layer Pereptron.
-
-• The main objective of this project is to analyze dataset which consist of numerous crimes and predicting the type of crime which might occur in future depending upon various conditions.
-
-• After testing and training the Chicago dataset we  obtain the accuracy as follows:                         
-     1.XG Boost-92%
-     2.Decision Tree-89%
-     3.Logistic Regression-87%
-     4.MultiLayer Perceptron[MLP]-86%
-     
-• XG Boost gives the best accuracy rate with 92%.
 
 
      
